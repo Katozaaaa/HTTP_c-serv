@@ -11,7 +11,7 @@
 #include "status_code.h"
 
 // ENTER YOUR ROOT PATH
-#define ROOT_PATH "C:/Users/hjvfn/Desktop/katoza-site/"
+#define ROOT_PATH " "
 
 std::ifstream* openFile(const std::string&);
 std::string readFile(std::ifstream*, const std::string);
